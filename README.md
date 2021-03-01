@@ -13,3 +13,6 @@ Alguns especialistas após um estudo de caso do problema desenvolveram um métod
 trabalhar a fim de evitar os problemas em questão. O método é baseado em ciclos de trabalho
  de 25 min com um leve intervalo de 5 min para realizar exercícios para vista, membros e costas.
  
+# Link do App
+
+https://moveit-xi-blond.vercel.app/
